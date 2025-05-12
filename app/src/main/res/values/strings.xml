@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galería de Arte</string>
+    <string name="image_desc">Obra de arte</string>
+    <string name="appwidget_text">Galería Widget</string>
+</resources>
